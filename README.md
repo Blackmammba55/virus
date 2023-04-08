@@ -3,6 +3,11 @@ also dont use it for bad stuff
 
 most of these viruses will be written in lua and launguges that use the .net framework such as c c++ c# cause im not really a javascript dev im more used to .net syntax and lua a bigger project is on the way im writing a program that u can build your own virus but at a cost of 10£
 
+but you will have to compile your self thats the twist also feel free to take inparation from these and make your own dont skid my viruses compleatly try make them into your own :)
+
+
+
+
 
 
 DISCLAMER: im not responsiable for anything that happens to the user that executes this malware as its for own use or if you have permission DONT USE THESE VIRUSES IN A BAD WAY OTHEREWISE YOU CAN GO TO PRISON FOR 5 YEARS FOR CYBER HACKING.
