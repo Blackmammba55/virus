@@ -2,8 +2,8 @@
 
 
 var i = 0; // this is the counter variable
-while (i < 10000) { // this is the condition
-    window.open("http://www.google.com"); // this is the code that runs
+while (i < 10000) { // this is the condition also feel free to change number!!
+    window.open("http://www.google.com"); // this is the code that runs feel free to change to any website u want!!
     i++; // this is the incrementer
     } // this is the end of the loop
 
