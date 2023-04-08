@@ -1,4 +1,4 @@
--- make a virus that disable all usb devices
+--this virus disconects all usbs i think i have not tested it out for obvious reasons 
 
 local usb = require("usb")
 
